@@ -295,6 +295,8 @@ Pull Request açıldı
               └─ Frontend otomatik deploy
 ```
 
+
+
 ---
 
 ## Lisans
