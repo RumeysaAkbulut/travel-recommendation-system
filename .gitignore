@@ -5,3 +5,4 @@ backend/instance/
 backend/.env
 *.db
 .DS_Store
+.claude/
